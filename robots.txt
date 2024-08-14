@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otionelv.github.io/sitemap.html.gz
+Sitemap: https://otionelv.github.io/app/sitemap.html.gz
+Sitemap: https://otionelv.github.io/assets/sitemap.html.gz
+Sitemap: https://otionelv.github.io/css/sitemap.html.gz
+Sitemap: https://otionelv.github.io/includes/sitemap.html.gz
+Sitemap: https://otionelv.github.io/item/sitemap.html.gz
+Sitemap: https://otionelv.github.io/src/sitemap.html.gz
